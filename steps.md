@@ -19,3 +19,12 @@
 ## done!
 ## create a new virtualenv:
 ## $ mkvirtualenv test_env2
+
+
+# updated on Mar14
+## list all virtualevn
+##$work on
+
+## create a new virtualevn
+##$work on newvritualenvname
+
