@@ -26,5 +26,5 @@
 ## $workon
 
 ## create a new virtualevn
-## $workon newvritualenvname
+## $mkvirtualenv newvritualenvname
 
