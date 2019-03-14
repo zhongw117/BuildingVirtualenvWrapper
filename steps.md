@@ -23,8 +23,8 @@
 
 # updated on Mar14
 ## list all virtualevn
-##$work on
+## $workon
 
 ## create a new virtualevn
-##$work on newvritualenvname
+## $workon newvritualenvname
 
